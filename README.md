@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Hold failed upload metrics and upload with next upload metrics (#8513)
