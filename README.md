@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Update CI.md with CI links (#8786)
