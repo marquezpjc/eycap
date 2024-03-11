@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+OBB: Fix plot_images (#7592)
