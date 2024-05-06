@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+OBB: Fix plot_images (#7592)
