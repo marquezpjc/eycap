@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Faster batch same_shapes (#8851)
