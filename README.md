@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Updating a typo on paddlepaddle.md (#9108)
