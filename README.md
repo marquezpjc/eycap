@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
